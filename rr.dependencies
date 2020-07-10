@@ -1,0 +1,20 @@
+[
+ {
+   "repository": "ResurrectionRemix-Devices/android_device_xiaomi_santoni",
+   "target_path": "device/xiaomi/santoni",
+   "branch": "Q",
+   "remote": "github"
+ },
+ {
+   "repository": "jrhimel/viper-kernel",
+   "target_path": "kernel/xiaomi/msm8937",
+   "branch": "master",
+   "remote": "github"
+ },
+ {
+   "repository": "jrhimel/Pixel-vendor",
+   "target_path": "vendor/xiaomi",
+   "branch": "ten",
+   "remote": "github"
+ }
+]
