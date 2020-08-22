@@ -1,6 +1,6 @@
 [
  {
-   "repository": "ResurrectionRemix-Devices/android_device_xiaomi_santoni",
+   "repository": "jrhimel/rr10",
    "target_path": "device/xiaomi/santoni",
    "branch": "Q",
    "remote": "github"
